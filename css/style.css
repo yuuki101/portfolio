@@ -83,6 +83,7 @@ ul, li {
 
 #header .logo {
   display: block;
+  background: rgba(169,169,169,0.7);;/*背景色*/
 }
 
 #header .logo-name {
@@ -245,6 +246,7 @@ ul, li {
   display: block;
   margin-bottom: 8px;
   height: 245px;
+  object-fit: cover;
 }
 
 #works .card-caption {
